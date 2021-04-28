@@ -6,6 +6,7 @@
   <a href="https://github.com/shivavaddagani"><img alt="GitHub" title="GitHub" height="32" width="32"
 src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
   <a href="https://www.linkedin.com/in/shiva-vaddagani-84a95283/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+  <a href="https://www.datacamp.com/profile/ShivaVaddagani"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://github.com/shivavaddagani/shivavaddagani/blob/master/images/datacamp-sq.png"></a>
 </p>
 
 <img align="right" alt="GIF" src="https://github.com/shivavaddagani/shivavaddagani/blob/master/OyGx.gif" width="500" height="320" />
