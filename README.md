@@ -15,4 +15,4 @@
 - 🏐 Volleyball 
 - 🏸 Badminton
 
-![OyGx](https://https://github.com/shivavaddagani/shivavaddagani/blob/master/OyGx.gif)
+<img > ![OyGx](https://github.com/shivavaddagani/shivavaddagani/blob/master/OyGx.gif)
