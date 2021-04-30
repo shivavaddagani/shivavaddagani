@@ -12,10 +12,14 @@ src="https://github.com/shivavaddagani/shivavaddagani/blob/master/images/github.
 
 <img align="right" alt="GIF" src="https://github.com/shivavaddagani/shivavaddagani/blob/master/OyGx.gif" width="500" height="320" />
 
-- 🧪💻 A Chemical Engineer with modeling and simulation background
+- 🧪💻 Chemical Engineer with modeling and simulation background
 - Getting Skilled in Machine Learning Algorithms
 - 📊 Playing with the Data
 - 💻 Learning From Home
+
+Ideas Sharing/Suggestions/Discussions @ <a href="https://wa.me/9676746637"><img alt="GitHub" title="GitHub" height="32" width="32"
+src="https://github.com/shivavaddagani/shivavaddagani/blob/master/images/WhatsApp.svg"></a> 
+
 
  ### My Hobbies
   
