@@ -10,12 +10,12 @@ src="https://github.com/shivavaddagani/shivavaddagani/blob/master/images/github.
   <a href="https://www.kaggle.com/shivagoud6637"><img alt="Kaggle" title="Kaggle" height="32" width="32" src="https://github.com/shivavaddagani/shivavaddagani/blob/master/images/kaggle.png"></a>
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/shivavaddagani/shivavaddagani/blob/master/OyGx.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/shivavaddagani/shivavaddagani/blob/master/OyGx.gif" width="430" height="350" />
 
-- 🧪💻 Chemical Engineer with modeling and simulation background
-- Getting Skilled in Machine Learning Algorithms
-- 📊 Playing with the Data
-- 💻 Learning From Home
+🧪💻 Chemical Engineer with Modeling and Simulation Background <br>
+🎯 Getting Skilled in Machine Learning Algorithms <br>
+📊 Playing with the Data <br>
+💻 Learning From Home <br>
 
 Ideas Sharing/Suggestions/Discussions @ <a href="https://wa.me/9676746637"><img alt="GitHub" title="GitHub" height="32" width="32"
 src="https://github.com/shivavaddagani/shivavaddagani/blob/master/images/WhatsApp.svg"></a> 
@@ -23,9 +23,9 @@ src="https://github.com/shivavaddagani/shivavaddagani/blob/master/images/WhatsAp
 
  ### My Hobbies
   
-- 🏏 Cricket 
-- 🏐 Volleyball 
-- 🏸 Badminton
+ 🏏 Cricket 
+ 🏐 Volleyball 
+ 🏸 Badminton
 
 📝[Here is my Resume](https://drive.google.com/file/d/1W1FCYLgdql-8LIBtXrbNoWqiw2nT0gTV/view?usp=sharing)
 
