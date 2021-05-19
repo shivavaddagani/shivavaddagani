@@ -27,5 +27,5 @@ src="https://github.com/shivavaddagani/shivavaddagani/blob/master/images/WhatsAp
  🏐 Volleyball 
  🏸 Badminton
 
-📝[Here is my Resume](https://drive.google.com/file/d/1W1FCYLgdql-8LIBtXrbNoWqiw2nT0gTV/view?usp=sharing)
+📝[Here is my Resume](https://drive.google.com/file/d/1WrIoQuHZYav4MDTQzBz02ZoSZ2PYkcey/view?usp=sharing)
 
