@@ -20,10 +20,11 @@ src="https://github.com/shivavaddagani/shivavaddagani/blob/master/images/github.
 Ideas Sharing/Suggestions/Discussions @ <a href="https://wa.me/9676746637"><img alt="whatsapp message" title="Whatsapp message" height="32" width="32"
 src="https://github.com/shivavaddagani/shivavaddagani/blob/master/images/WhatsApp.svg"></a> 
 
-Strong believer in 'Sharing is Caring' -----> So do share you knowledge with friends <br>
-# Learn Together # Grow together
-  
-What keep me stay healthy and active are <br>
-🏏 Cricket 
-🏐 Volleyball 
-🏸 Badminton
+Strong believer in 'Sharing is Caring' -----> So do share you **Knowledge** <br>
+
+  Learn Together --> Grow Together
+
+  What keep me stay healthy and active are <br>
+  🏏 Cricket 
+  🏐 Volleyball 
+  🏸 Badminton
