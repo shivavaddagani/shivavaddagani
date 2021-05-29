@@ -20,12 +20,8 @@ src="https://github.com/shivavaddagani/shivavaddagani/blob/master/images/github.
 Ideas Sharing/Suggestions/Discussions @ <a href="https://wa.me/9676746637"><img alt="GitHub" title="GitHub" height="32" width="32"
 src="https://github.com/shivavaddagani/shivavaddagani/blob/master/images/WhatsApp.svg"></a> 
 
-
  ### My Hobbies
   
  🏏 Cricket 
  🏐 Volleyball 
  🏸 Badminton
-
-📝[Here is my Resume](https://drive.google.com/file/d/1WrIoQuHZYav4MDTQzBz02ZoSZ2PYkcey/view?usp=sharing)
-
