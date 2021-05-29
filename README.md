@@ -15,13 +15,15 @@ src="https://github.com/shivavaddagani/shivavaddagani/blob/master/images/github.
 🧪💻 Chemical Engineer with Modeling and Simulation Background <br>
 🎯 Getting Skilled in Machine Learning Algorithms <br>
 📊 Playing with the Data <br>
-💻 Learning From Home <br>
+💻 Learning from Home <br>
 
-Ideas Sharing/Suggestions/Discussions @ <a href="https://wa.me/9676746637"><img alt="GitHub" title="GitHub" height="32" width="32"
+Ideas Sharing/Suggestions/Discussions @ <a href="https://wa.me/9676746637"><img alt="whatsapp message" title="Whatsapp message" height="32" width="32"
 src="https://github.com/shivavaddagani/shivavaddagani/blob/master/images/WhatsApp.svg"></a> 
 
- ### My Hobbies
+Strong believer in 'Sharing is Caring' -----> So do share you knowledge with friends <br>
+# Learn Together # Grow together
   
- 🏏 Cricket 
- 🏐 Volleyball 
- 🏸 Badminton
+What keep me stay healthy and active are <br>
+🏏 Cricket 
+🏐 Volleyball 
+🏸 Badminton
