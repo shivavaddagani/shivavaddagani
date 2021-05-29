@@ -24,7 +24,7 @@ Strong believer in 'Sharing is Caring' -----> So do share you **Knowledge** <br>
 
   Learn Together --> Grow Together
 
-  What keep me stay healthy and active are <br>
+  What keep me healthy and active are <br>
   🏏 Cricket 
   🏐 Volleyball 
   🏸 Badminton
