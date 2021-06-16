@@ -20,7 +20,7 @@ src="https://github.com/shivavaddagani/shivavaddagani/blob/master/images/github.
 Ideas Sharing/Suggestions/Discussions @ <a href="https://wa.me/9676746637"><img alt="whatsapp message" title="Whatsapp message" height="32" width="32"
 src="https://github.com/shivavaddagani/shivavaddagani/blob/master/images/WhatsApp.svg"></a> 
 
-Strong believer in 'Sharing is Caring' -----> So do share you **Knowledge** <br>
+Strong believer in 'Sharing is Caring' -----> So do share your **Knowledge** <br>
 
   Learn Together --> Grow Together
 
