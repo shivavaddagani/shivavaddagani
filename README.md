@@ -12,19 +12,7 @@ src="https://github.com/shivavaddagani/shivavaddagani/blob/master/images/github.
 
 <img align="right" alt="GIF" src="https://github.com/shivavaddagani/shivavaddagani/blob/master/OyGx.gif" width="430" height="350" />
 
-🧪💻 Chemical Engineer with Modeling and Simulation Background <br>
-🎯 Getting Skilled in Machine Learning Algorithms <br>
+🧪💻 Data Scientist <br>
+🎯 Getting Skilled in ML, GEN AI <br>
 📊 Playing with the Data <br>
 💻 Learning from Home <br>
-
-Ideas Sharing/Suggestions/Discussions @ <a href="https://wa.me/9676746637"><img alt="whatsapp message" title="Whatsapp message" height="32" width="32"
-src="https://github.com/shivavaddagani/shivavaddagani/blob/master/images/WhatsApp.svg"></a> 
-
-Strong believer in 'Sharing is Caring' -----> So do share your **Knowledge** <br>
-
-  Learn Together --> Grow Together
-
-  What keep me healthy and active are <br>
-  🏏 Cricket 
-  🏐 Volleyball 
-  🏸 Badminton
