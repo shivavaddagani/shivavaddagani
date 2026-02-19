@@ -13,6 +13,6 @@ src="https://github.com/shivavaddagani/shivavaddagani/blob/master/images/github.
 <img align="right" alt="GIF" src="https://github.com/shivavaddagani/shivavaddagani/blob/master/OyGx.gif" width="430" height="350" />
 
 🧪💻 Data Scientist <br>
-🎯 Getting Skilled in ML, GEN AI <br>
+🎯 Skilled in ML, GEN AI <br>
 📊 Playing with the Data <br>
 💻 Learning from Home <br>
